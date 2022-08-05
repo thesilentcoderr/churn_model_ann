@@ -7,7 +7,7 @@ MarkupSafe
 matplotlib
 pandas
 numpy
-
+scikit-learn
 Pillow
 pipreqs
 pyparsing
